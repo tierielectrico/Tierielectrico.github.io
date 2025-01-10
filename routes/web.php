@@ -12,7 +12,7 @@ use App\Http\Controllers\PanelController;
 use App\Http\Controllers\RedirectController;
 use App\Http\Controllers\SeoController;
 use Illuminate\Support\Facades\Route;
-
+ 
 /*
 |--------------------------------------------------------------------------
 | Web Routes
